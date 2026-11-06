@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OHandshake
+Comment=WPA/WPA2 handshake analyzer — 4-way/PMKID detect, hashcat -m 22000 export (offline)
+Exec=OHandshake
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OWireless;
+Keywords=OHandshake;owlsec;security;wifi;wpa;handshake;pmkid;hashcat;pcap;
